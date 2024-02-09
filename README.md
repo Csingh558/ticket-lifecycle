@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -28,25 +28,24 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+1. **Intake:**
+   - **Description:** The Intake stage marks the initiation of a ticket's lifecycle. Customers submit their requests or issues through various channels, such as online forms or email. During this stage, relevant details are captured, including issue descriptions, priority levels, and any necessary attachments. The goal is to gather comprehensive information to facilitate efficient handling and resolution.
+
+2. **Assignment and Communication:**
+   - **Description:** After the Intake stage, tickets move into the Assignment and Communication phase. Here, agents review and analyze the submitted information, assign the ticket to the appropriate department or individual, and communicate with the customer for additional details or clarification. This stage ensures that tickets are directed to the right team or agent and sets the foundation for effective collaboration throughout the resolution process.
+
+3. **Working the Issue:**
+   - **Description:** In the Working the Issue stage, agents actively address and resolve the reported problem. This involves troubleshooting, research, and collaboration within teams or departments. Agents may communicate with each other or with the customer to gather more information or provide updates on the progress. The focus is on efficiently resolving the issue while maintaining clear and transparent communication.
+
+4. **Resolution:**
+   - **Description:** The Resolution stage marks the successful completion of the ticket's lifecycle. Agents confirm that the reported issue has been resolved, and if necessary, they communicate the resolution to the customer. This stage may also involve post-resolution activities, such as documenting the solution, analyzing the overall ticket-handling process for improvement, and closing the ticket. The Resolution stage ensures that the customer's concern is addressed to their satisfaction and contributes to the continuous enhancement of support processes.
+
+These four stages represent the comprehensive journey of an osTicket ticket, from its initial submission through assignment, active resolution efforts, and finally, successful closure.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
